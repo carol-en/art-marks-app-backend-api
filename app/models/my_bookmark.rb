@@ -1,0 +1,2 @@
+class MyBookmark < ApplicationRecord
+end
